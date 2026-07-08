@@ -8,7 +8,7 @@ The primary objective of this project was to strengthen my SQL skills while extr
 >
 > This project was completed while following Luke Barousse's SQL course. The overall project idea and README structure were inspired by the course materials. All SQL queries, analysis, visualizations, and conclusions presented here were completed by me as part of my learning process.
 
-🔍 **SQL queries:** Check out the **project_sql** folder for all SQL scripts.
+🔍 **SQL queries:** Check out the [project_sql folder](/project_sql/) folder for all SQL scripts.
 
 
 # Background
